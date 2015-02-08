@@ -1,10 +1,3 @@
-/*
- * mem.h
- *
- *  Created on: May 14, 2014
- *      Author: intern
- */
-
 #ifndef MEM_H_
 #define MEM_H_
 

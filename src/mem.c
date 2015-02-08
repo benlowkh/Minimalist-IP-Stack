@@ -1,9 +1,3 @@
-/*
- * mem.c
- *
- *  Created on: May 14, 2014
- *      Author: intern
- */
 #include <stdint.h>
 #include "mem.h"
 

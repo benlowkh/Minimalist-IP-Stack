@@ -1,10 +1,3 @@
-/*
- * netif.c
- *
- *  Created on: Apr 25, 2014
- *      Author: intern
- */
-
 #include "netif.h"
 #include "adapter.h"
 

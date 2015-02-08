@@ -1,10 +1,3 @@
-/*
- * netif.h
- *
- *  Created on: Apr 24, 2014
- *      Author: intern
- */
-
 #ifndef NETIF_H_
 #define NETIF_H_
 

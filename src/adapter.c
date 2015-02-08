@@ -1,10 +1,3 @@
-/*
- * adapter.c
- *
- *  Created on: Apr 24, 2014
- *      Author: intern
- */
-
 #include "adapter.h"
 
 XEmacPs_Config *mac_config;

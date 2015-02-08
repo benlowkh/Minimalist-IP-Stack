@@ -1,10 +1,3 @@
-/*
- * adapter.h
- *
- *  Created on: Apr 24, 2014
- *      Author: intern
- */
-
 #ifndef ADAPTER_H_
 #define ADAPTER_H_
 

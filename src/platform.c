@@ -1,10 +1,3 @@
-/*
- * platform.c
- *
- *  Created on: Apr 25, 2014
- *      Author: intern
- */
-
 #ifdef __arm__
 
 #include "platform.h"

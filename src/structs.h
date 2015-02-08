@@ -1,10 +1,3 @@
-/*
- * structs.h
- *
- *  Created on: Apr 24, 2014
- *      Author: intern
- */
-
 #include <stdint.h>
 #include "xemacps.h"
 #include "xpqueue.h"

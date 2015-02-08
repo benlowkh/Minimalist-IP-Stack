@@ -1,10 +1,3 @@
-/*
- * receive.c
- *
- *  Created on: Apr 24, 2014
- *      Author: intern
- */
-
 #include <stdio.h>
 #include "adapter.h"
 #include "xil_exception.h"
